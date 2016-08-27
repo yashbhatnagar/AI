@@ -1,5 +1,5 @@
 # AI
-Implementation of AI algorithms
+Implementation of AI algorithms.
 Adversarial Search: 
 Predicting the next best move for a board game called- “Gomoku” as per any given current board state using greedy, Minimax, Alpha-Beta algorithms and an evaluation function. Language used: Python
 Inference in First Order Logic: 
